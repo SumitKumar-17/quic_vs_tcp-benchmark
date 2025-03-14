@@ -11,4 +11,4 @@ Contents:
    methods.md
    results.md
    conclusions.md
-   referance.md
+   reference.md
